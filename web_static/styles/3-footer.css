@@ -6,10 +6,10 @@ footer {
 	align-items: center;
 	background-color: #fff;
 	height: 60px;
-	width: 100%;
 	border-top: 1px solid #ccc;
 	bottom: 0;
 	display: flex;
 	justify-content: center;
 	position: absolute;
+	width: 100%;
 }
