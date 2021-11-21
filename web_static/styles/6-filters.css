@@ -46,7 +46,7 @@
 
 .filters .locatons:hover,
 .filters .amenities:hover {
-	background-color: fafafa;
+	background-color: #fafafa;
 }
 
 /* Locations and amenities popover class */
@@ -61,7 +61,7 @@
 
 /* Locations and amenities popover hover */
 .filters .locations:hover .popover,
-.filters .locations:hover .popover {
+.filters .amenities:hover .popover {
 	display: block;
 }
 
@@ -70,7 +70,11 @@
 	padding: 6px 0 6px 0;
 }
 
-/* Locations li styles */
+/* Locations li margin */
+.filters .locations li {
+	margin: 0 auto 6px 3em;
+
+/* Amenities list element margin */
 .filters .amenities li {
 	margin: 12px auto 12px 30px;
 }
