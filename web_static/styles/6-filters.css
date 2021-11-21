@@ -88,8 +88,9 @@
 	 box-sizing: border-box;
  }
 
+
 /* Filter h2 */
- .filters h2 {
+.filters h2 {
 	 font-size: 16px;
 	 font-weight: bold;
 	 margin: 12px auto 0 30px;
