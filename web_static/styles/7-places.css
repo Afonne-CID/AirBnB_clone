@@ -1,22 +1,21 @@
 /*
  * === Places class style ===
  */
+.places {
+	display: inline-block;
+}
 
-/* Places style */
+/* Places article style */
 .places article {
+  display: inline-block;
   border: 1px solid #ff5a5f;
   border-radius: 4px;
-  display: inline-block;
   margin: 20px;
   padding: 20px;
   width: 390px;
 }
 
-/*
- * --- Places header style ---
- */
-
-/* Header 1 style */
+/* Places h1 style */
 .places h1 {
   font-size: 30px;
   font-weight: bold;
